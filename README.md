@@ -6,6 +6,10 @@ Elm in action project to visualise photos
 
 `elm install elm/http`
 
+`elm install elm/json`
+
+`elm install NoRedInk/elm-json-decode-pipeline`
+
 `elm make src/PhotoGroove.elm --output app.js`
 
 ## Usage
